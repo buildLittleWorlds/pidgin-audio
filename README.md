@@ -1,3 +1,3 @@
 # My Site about Nigerian Pidgin English
 
-Content will go here
+[Introduction to Nigerian Pidgin English](introduction-to-pidgin.md)
