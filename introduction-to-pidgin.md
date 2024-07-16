@@ -1,3 +1,5 @@
+[Back to Home](./README.md)
+
 # Nigerian Pidgin English
 
 ## Introduction
@@ -36,3 +38,5 @@ Nigerian Pidgin plays a significant role in Nigerian pop culture, featuring prom
 ## Challenges and Recognition
 
 While widely used, Nigerian Pidgin faces challenges in gaining official recognition. Debates continue about its role in education and formal settings. However, its importance in daily communication and cultural expression is undeniable.
+
+[Back to Home](./README.md)
