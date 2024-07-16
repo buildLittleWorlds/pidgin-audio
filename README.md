@@ -1,3 +1,12 @@
-# My Site about Nigerian Pidgin English
+# pidgin-audio
 
-[Introduction to Nigerian Pidgin English](introduction-to-pidgin.md)
+Welcome to the pidgin-audio project!
+
+## Contents
+
+- [Introduction to Nigerian Pidgin English](introduction-to-pidgin.md)
+- (Other links or content)
+
+## About This Project
+
+(Your project description here)
