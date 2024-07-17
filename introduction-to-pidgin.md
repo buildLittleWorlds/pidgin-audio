@@ -12,7 +12,7 @@ Pidgin English in Nigeria emerged during the colonial era as a means of communic
 
 ## Widespread Use
 
-Today, Nigerian Pidgin is widely spoken across the country, transcending ethnic and social boundaries. It's used in casual conversations, media, music, and even some official contexts. Despite not being an official language, its popularity continues to grow, especially among young people.
+Today, Nigerian Pidgin is widely spoken across the country, transcending ethnic and social boundaries. It's used in casual conversations, media, [music](benin-boys.md), and even some official contexts. Despite not being an official language, its popularity continues to grow, especially among young people.
 
 ## Characteristics
 
